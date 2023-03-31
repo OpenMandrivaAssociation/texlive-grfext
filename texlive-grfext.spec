@@ -1,6 +1,6 @@
 Name:		texlive-grfext
 Version:	53024
-Release:	1
+Release:	2
 Summary:	Manipulate the graphics package's list of extensions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grfext
